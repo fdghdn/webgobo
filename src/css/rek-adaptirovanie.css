@@ -1,0 +1,1112 @@
+
+@media (min-width: 320px){  
+    .primenenie-text{
+        font-size: 20px;
+    }
+    .primenenie-title-block{
+        height: 100px;
+    }
+    .katalog-title{
+        align-items: center;
+        flex-direction: column;
+    }
+    .katalog-photo{
+        height: 1550px;
+    }
+    .p-icon{
+        margin-left: 20px;
+    }
+    .order-h1 {
+        font-size: 30px;
+        margin-top: 85px;
+        margin-left: 15px;
+        text-align:center ;
+        width: auto;
+    }
+    .under-pic {
+        width: 100%;
+        height: 1050px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .logo-img{
+        width: 40px;
+        height: 40px;
+    }
+    .pictures {
+        height: 720px;
+        flex-direction: column;
+    }
+    .logo-img{
+        margin-left: 10px;
+    }
+    .menu__btn{
+        left: 86%;
+        top: 9px;
+    }
+    .intro-main-btn{
+        width: 65px;
+        height: 65px;
+        font-size: 5px;
+        margin: 0;
+        margin-bottom: 200px;
+    }
+    .intro_silka{
+        font-size: 1.5rem;
+        padding: 8px;
+    }
+    .dropbtn{
+        padding: 8px;
+    }
+    .use {
+        font-size: 20px;
+    }
+    .container .btn{
+        width: 160px;
+    }
+    .intro-title{
+        margin-left: 20px;
+    font-size: 15px;
+    width: 220px;
+        margin-bottom: 200px;
+        padding-right: 0;
+    }
+    .container{
+        height: 200px;
+        width: 300px;
+        margin-top: 20px;
+    }
+    .katalog-h1 {
+        font-size: 25px;
+    }
+    .katalog-link{
+        width: 180px;
+        margin-top: 40px;
+    }
+    .wrapper-katalog-container{
+        flex-direction: column;
+        align-items: center;
+    }
+    .input-div {
+        width: 330px;
+    }
+    .ytvideo{
+        width: 290px;
+    height: 190px;
+    }
+    .razdelenie{
+        height: 0px;
+    }
+    
+.katalog-container{
+    width: 275px;
+}
+.katalog-container-photo{
+    width: 170px;
+    height: 170px;
+}
+.wrapper-katalog-container{
+    justify-content: space-around;
+}
+
+.order{
+    height: 1000px;
+}
+.predlozenie{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+}
+.order-menu{
+    flex-direction: column;
+    align-items: center;
+}
+.information{
+    justify-content: flex-start;
+}
+.first-footer{
+    display: flex;
+    flex-direction: column;
+}
+.block-navigacion{
+    margin-top: 30px;
+}
+.second-footer{
+    display: flex;
+    flex-direction: column;
+}
+.footer-wrapper{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+.content1{
+    height: 95px;
+}
+.text1{
+    width: 70%;
+}.pic-t{
+    margin-top: 40px;
+}
+.cost-link{
+    margin-bottom: 20px;
+}
+.square2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+}
+.footer{
+    height: 700px;
+}
+.a{
+    margin-left: 10px;
+}
+.big-img{
+    width: 310px;
+    height: 310px;
+}
+.span{
+    width: 310px;
+    height: 310px;
+}
+.small-img{
+    width: 310px;
+    height: 310px;
+}
+.span-small{
+    width: 310px;
+    height: 310px;
+}
+.small-img-2{
+    width: 310px;
+    height: 310px;
+}
+.span-small-2{
+    width: 310px;
+    height: 310px;
+}
+.small2-img-2{
+    width: 310px;
+    height: 310px;
+}
+.block-kartinki{
+    height: auto;
+}
+.wrapper-kartinki{
+    flex-direction: column;
+    align-items: center;
+}
+.bloki{
+    display: flex;
+    margin-top: 0px;
+    width: 450px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.small-wrap{
+    flex-direction: column;
+}
+.span3{
+    width: 250px;
+}
+.block1{
+    width: 300px;
+}
+.block2-img{
+    width: 310px;
+    height: 310px;
+}
+.span2{
+    width: 310px;
+    height: 310px;
+}
+.small2-img{
+    width: 310px;
+    height: 310px;
+}
+.small2-img-2{
+    width: 310px;
+    height: 310px;
+}
+.span3{
+    width: 310px;
+    height: 310px;
+}
+.span3-2{
+    width: 310px;
+    height: 310px;
+}
+}
+
+
+@media (min-width: 480px){
+    .primenenie-title-block{
+        height: 250px;
+    }
+    .big-img{
+        width: 450px;
+    }
+    .small-img{
+        width: 225px;
+        height: 225px;
+    }
+    .span-small{
+        width: 225px;
+        height: 225px;
+    }
+    .small-img-2{
+        width: 225px;
+        height: 225px;
+    }
+    .span-small-2{
+        width: 225px;
+        height: 225px;
+    }
+    .small2-img-2{
+        height: 295px;
+    }
+    .block-kartinki{
+        height: auto;
+    }
+    .wrapper-kartinki{
+        flex-direction: column;
+        align-items: center;
+    }
+    .bloki{
+        display: flex;
+        margin-top: 50px;
+        width: 450px;
+    }
+    .span3{
+        width: 250px;
+    }
+    .block1{
+        width: 450px;
+    }
+    .primenenie-text{
+        font-size: 30px;
+    }
+    .a{
+        margin-left: 20px;
+    }
+
+    .footer{
+        height: 280px;
+    }
+    .katalog-title{
+        align-items: center;
+        flex-direction: row;
+    }
+    .square2 {
+        border-radius: 20px;
+        width: 60px;
+        height: 60px;
+    }
+    .logo-img{
+        width: 80px;
+        height: 80px;
+    }
+    .katalog-photo{
+        height: 1550px;
+    }
+    .order-h1 {
+        font-size: 30px;
+        margin-top: 85px;
+        margin-left: 15px;
+        width: auto;
+        text-align: center;
+    }
+    .under-pic {
+        width: 100%;
+        height: 1050px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .pictures {
+        height: 720px;
+        flex-direction: column;
+    }
+    .logo-img{
+        margin-left: 10px;
+    }
+    .menu__btn{
+        top: 25px;
+        left: 90%;
+    }
+    .intro-main-btn{
+        width: 90px;
+        height: 90px;
+        font-size: 8px;
+        margin: 0;
+        margin-bottom: 200px;
+    }
+    .intro_silka{
+        font-size: 1.5rem;
+        padding: 8px;
+    }
+    .dropbtn{
+        padding: 8px;
+    }
+    .use {
+        text-align: center;
+        font-size: 25px;
+    }
+    .container .btn{
+        width: 160px;
+    }
+    .intro-title{
+        font-size: 20px;
+        width: 320px;
+        margin-bottom: 200px;
+        padding-right: 0px;
+    }
+    .container{
+        height: 200px;
+        width: 300px;
+        margin-top: 20px;
+    }
+    .katalog-h1 {
+        font-size: 25px;
+        margin-left: 30px;
+    }
+    .katalog-link{
+        width: 180px;
+        margin-right: 40px;
+    }
+    .wrapper-katalog-container{
+        flex-direction: column;
+        align-items: center;
+    }
+    .input-div {
+        width: 415px;
+    }
+    .ytvideo{
+        width: 460px;
+    height: 300px;
+    }
+    .razdelenie{
+        height: 0px;
+    }
+    
+.katalog-container{
+    width: 370px;
+}
+.katalog-container-photo{
+    width: 170px;
+    height: 170px;
+}
+.wrapper-katalog-container{
+    justify-content: space-around;
+}
+
+.order{
+    height: 1000px;
+}
+.predlozenie{
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+}
+.order-menu{
+    flex-direction: column;
+    align-items: center;
+}
+.information{
+    justify-content: space-between;
+}
+.first-footer{
+    display: flex;
+    flex-direction: column;
+}
+.block-navigacion{
+    margin-top: 30px;
+}
+.second-footer{
+    display: flex;
+    flex-direction: column;
+}
+.block-contacts{
+    margin-top: 125px;
+}
+.footer-wrapper{
+    margin-top: 100px;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+    justify-content: center;
+    align-items: normal;
+}
+.content1{
+    height: 95px;
+}
+.text1{
+    width: 70%;
+}
+
+.pic-t{
+    margin-top: 40px;
+}
+.cost-link{
+    margin-bottom: 20px;
+}
+.block2-img{
+    height: 610px;
+}
+.span2{
+    height: 600px;
+    padding-left: 20px;
+}
+.span3{
+    width: 250px;
+    height: 273px;
+}
+.span3-2{
+    width: 250px;
+    height: 273px;
+}
+.small-wrap{
+    flex-direction: row;
+}
+.bloki{
+    flex-direction: row;
+}
+}
+@media (min-width: 768px){
+    .big-img{
+        width: 590px;
+    }
+    .small-img{
+        width: 295px;
+        height: 295px;
+    }
+    .span-small{
+        width: 295px;
+        height: 295px;
+    }
+    .small-img-2{
+        width: 295px;
+        height: 295px;
+    }
+    .span-small-2{
+        width: 295px;
+        height: 295px;
+    }
+    .katalog-photo{
+        height: 650px;
+    }
+    .pic-t{
+        margin-top: 0px;
+    }
+    .under-pic {
+        width: 100%;
+        height: 400px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+    }
+    .text1{
+        width: auto;
+    }
+    .pictures {
+        justify-content: center;
+        height: 260px;
+        flex-direction: row;
+    }
+    .content1{
+        height: 200px;
+    }
+    .intro-main-btn{
+        width: 100px;
+        height: 100px;
+        font-size: 8px;
+        margin: 0;
+        margin-bottom: 70px;
+    }
+    .intro_silka{
+        font-size: 1.5rem;
+        padding: 8px;
+    }
+    .dropbtn{
+        padding: 8px;
+    }
+    .use {
+        font-size: 40px;
+    }
+    .container .btn{
+        width: 160px;
+    }
+    .intro-title{
+        font-size: 30px;
+        width: 500px;
+        margin-bottom: 70px;
+    }
+    .container{
+        height: 200px;
+        width: 300px;
+    }
+    .katalog-h1{
+        font-size: 35px;
+        margin-left: 40px;
+    }
+    .katalog-link{
+        width: 200px;
+        margin-right: 40px;
+    }
+    .wrapper-katalog-container{
+        flex-direction: row;
+        width: 940px;
+    }
+    .order-h1 {
+        width: 730px;
+        font-size: 38px;
+        margin-top: 85px;
+    }
+    .input-div {
+        width: 415px;
+    }
+    .ytvideo{
+        width: 700px;
+        height: 400px;
+    }
+    .razdelenie{
+        height: 0px;
+    }
+    
+.katalog-container{
+    width: 230px;
+}
+.katalog-container-photo{
+    width: 170px;
+    height: 170px;
+}
+.wrapper-katalog-container{
+    justify-content: space-around;
+}
+
+.order{
+    height: 1200px;
+}
+.predlozenie{
+    font-size: 38px;
+    font-weight: bold;
+}
+.order-menu{
+    flex-direction: column;
+    align-items: center;
+}
+.information{
+    justify-content: space-between;
+}
+.first-footer{
+    display: flex;
+    flex-direction: column;
+}
+.block-navigacion{
+    margin-top: 30px;
+}
+.second-footer{
+    display: flex;
+    flex-direction: column;
+}
+.block-contacts{
+    margin-top: 125px;
+}
+.footer-wrapper{
+    justify-content: center;
+}
+.menu__btn{
+    left: 95%;
+}
+.primenenie-text{
+    font-size: 40px;
+}
+.block-kartinki{
+    height: auto;
+}
+.wrapper-kartinki{
+    flex-direction: column;
+    align-items: center;
+}
+.bloki{
+    display: flex;
+    margin-top: 50px;
+}
+.block1{
+    width: 590px;
+}
+.order-text{
+    text-align: center;
+}
+.span3{
+    width: 250px;
+    height: 273px;
+}
+.span3-2{
+    width: 250px;
+    height: 273px;
+}
+.small-wrap{
+    flex-direction: row;
+}
+.bloki{
+    flex-direction: row;
+    width: 590px;
+}
+}
+@media (min-width: 992px){
+    .bloki{
+        display: flex;
+        margin-top: 0;
+    }
+    .wrapper-kartinki{
+        flex-direction: row;
+        justify-content: center;
+    }
+    .primenenie-text{
+        font-size: 50px;
+    }
+    .katalog-container{
+        width: 280px;
+    }
+    .katalog-photo{
+        height: 650px;
+    }
+    .pic-t{
+        margin-top: 0px;
+    }
+    .under-pic {
+        width: 100%;
+        height: 400px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+    }
+    .text1{
+        width: auto;
+    }
+    .pictures {
+        height: 350px;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .content1{
+        height: 200px;
+    }
+    .menu__btn{
+        left: 95%;
+    }
+    .footer-wrapper{
+        justify-content: space-between;
+        text-align: center;
+    }
+    .block-contacts{
+        margin-top: 0;
+    }
+    .second-footer{
+        display: flex;
+        flex-direction: row;
+    }
+    .block-navigacion{
+        margin-top: 0;
+    }
+    .first-footer{
+        display: flex;
+        flex-direction: row;
+    }
+    .katalog-container-photo{
+        width: 170px;
+        height: 170px;
+    }
+    .intro-main-btn{
+        font-size: 12px;
+        margin-left: 50px;
+        margin-bottom: 80px;
+    }
+    .navbar{
+        margin-left: 20px;
+    }
+    .intro_silka{
+        font-size: 1.5rem;
+        padding: 8px;
+    }
+    .dropbtn{
+        padding: 8px;
+    }
+    .use{
+        font-size: 50px;
+    }
+    .container .btn{
+        width: 230px;
+    }
+    .intro-title{
+        font-size: 35px;
+    }
+    .container{
+        width: 360px;
+        height: 270px;
+    }
+    .katalog-h1{
+        font-size: 40px;
+        margin-left: 40px;
+    }
+    .katalog-link{
+        width: 200px;
+        margin-right: 40px;
+    }
+    .wrapper-katalog-container{
+        flex-direction: row;
+        width: 940px;
+    }
+    .order-h1 {
+        width: auto;
+        font-size: 35px;
+        margin-top: 85px;
+    }
+    .input-div {
+        width: 415px;
+    }
+    .ytvideo{
+        width: 500px;
+        height: 300px;
+    }
+    .razdelenie{
+        height: 0px;
+    }
+    .intro-main-btn{
+        width: 130px;
+        height: 130px;
+    }
+    .p-icon {
+        width: 60px;
+        height: 60px;
+    }
+    .order{
+        height: 700px;
+    }
+    .predlozenie{
+        font-size: 38px;
+        font-weight: bold;
+    }
+    .order-menu{
+        flex-direction: row;
+        align-items: center;
+    }
+    .intro-title{
+        font-size: 45px;
+        width: 700px;
+        margin-bottom: 70px;
+    }
+    .logo-img{
+        margin-left: 50px;
+    }
+    .block1{
+        width: 490px;
+    }
+    .big{
+        width: 490px;
+    }
+    .big-img{
+        width: 490px;
+    }
+    .span{
+        width: 490px;
+    }
+    .small-img{
+        width: 245px;
+        height: 245px;
+    }
+    .span-small{
+        width: 245px;
+        height: 245px;
+    }
+.small-img-2{
+    width: 245px;
+    height: 245px;
+}
+.span-small-2{
+    width: 245px;
+    height: 245px;
+}
+.block2-img{
+    height: 550px;
+    width: 280spx;
+}
+.span2{
+    height: 550px;
+    width: 235px;
+}
+.small2-img{
+    width: 265px;
+    height: 273px;
+}
+.small2-img-2{
+    width: 265px;
+    height: 273px;
+}
+.span3{
+    width: 250px;
+    height: 273px;
+}
+.span3-2{
+    width: 250px;
+    height: 273px;
+}
+.small-wrap{
+    flex-direction: row;
+}
+.bloki{
+    flex-direction: row;
+}
+}
+
+
+@media (min-width: 1200px){
+    .small-wrap{
+        flex-direction: row;
+    }
+    .bloki{
+        flex-direction: row;
+    }
+    .block-kartinki{
+        display: flex;
+        width: 100%;
+        background-color: #303030;
+        height: 600px;
+        justify-content: center;
+      
+      }
+      .wrapper-kartinki{
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        max-width: 1200px;
+      }
+      .block1{
+        width:50%;
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .big{
+        position: relative;
+      }
+      
+      .big-img{
+        z-index: 1;
+        width: 590px;
+        height: 305px;
+        padding: 10px;
+        filter: brightness(70%)
+      }
+      
+      .small-img{
+        width: 295px;
+        height: 295px;
+        padding: 10px;
+        filter: brightness(70%)
+      }
+      .small{
+        position: relative;
+        display: flex;
+      }
+      .small-img-2{
+        width: 295px;
+        height: 295px;
+        padding: 10px;
+        filter: brightness(70%)
+      }
+      .small-2{
+        position: relative;
+        display: flex;
+      }
+      .small-wrap{
+        display: flex;
+        flex-direction: row;
+      }
+      .block2{
+        position: relative;
+        display: flex;
+        overflow: hidden;
+      }
+      .block2-img{
+        width: 295px;
+        height: 600px;
+        padding: 10px;
+        filter: brightness(70%)
+      }
+      .block3{
+        display: flex;
+        overflow: hidden;
+        flex-direction: column;
+      }
+      .small2-img{
+        width: 295px;
+        height: 300px;
+        padding: 10px;
+        filter: brightness(70%)
+      }
+      .small2-img-2{
+        width: 295px;
+        height: 300px;
+        padding: 10px;
+        filter: brightness(70%)
+      }
+      .small2{
+        position: relative;
+      }
+      .small2-2{
+        position: relative;
+      }
+      .span{
+          width: 590px;
+        height: 305px;
+          position: absolute;
+          top: 0;
+          left: 0;
+          color: #fff;
+          z-index: 3;
+          padding: 50px;
+          display: flex;
+          flex-direction: column;
+          justify-content: flex-end;
+          font-size: 25px;
+          font-family: 'Rubik', Arial, sans-serif;
+          font-weight: bold;
+      }
+      .span-small{
+        width: 275px;
+        height: 275px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #fff;
+        z-index: 3;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        font-size: 25px;
+        font-family: 'Rubik', Arial, sans-serif;
+        font-weight: bold;
+      }
+      .span-small-2{
+        width: 275px;
+        height: 275px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #fff;
+        z-index: 3;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        font-size: 25px;
+        font-family: 'Rubik', Arial, sans-serif;
+        font-weight: bold;
+      }
+      .span2{
+        width: 275px;
+        height: 580px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #fff;
+        z-index: 3;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        font-size: 25px;
+        font-family: 'Rubik', Arial, sans-serif;
+        font-weight: bold;
+      }
+      .span3{
+        width: 275px;
+        height: 280px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #fff;
+        z-index: 3;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        font-size: 25px;
+        font-family: 'Rubik', Arial, sans-serif;
+        font-weight: bold;
+      }
+      .span3-2{
+        width: 275px;
+        height: 280px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #fff;
+        z-index: 3;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        font-size: 25px;
+        font-family: 'Rubik', Arial, sans-serif;
+        font-weight: bold;
+      }
+      .big-img-wrap{
+        width: 590px;
+        height: 305px;
+      }
+    .order{
+        height: 700px;
+    }
+    .predlozenie{
+        font-size: 38px;
+        font-weight: bold;
+    }
+    .order-menu{
+        flex-direction: row;
+        align-items: center;
+    }
+    .hr{
+        width: 1160;
+    }
+    .navbar{
+        margin-left: 40px;
+    }
+    .nav{
+        margin-left: 50px;
+    }
+    .intro_silka{
+        padding: 16px;
+    }
+    .dropbtn{
+        padding: 16px;
+    }
+    button.intro-main-btn{
+        width: 150px;
+        height: 150px;
+        font-size: 12px;
+        margin-left: 150px;
+    }
+    .use{
+        font-size: 60px;
+    }
+    .container .btn{
+        width: 270px;
+    }
+    
+.p-icon {
+    width: 60px;
+    height: 60px;
+}
+}
