@@ -227,8 +227,9 @@ html{
   color: red;
 }
 .p-c-g{
-  text-decoration: line-through;
-  color: #BDBDBD;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #000;
 }
 .cost-link{
   margin-top: 25px;

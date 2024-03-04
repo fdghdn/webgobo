@@ -425,8 +425,9 @@ html{
   color: red;
 }
 .p-c-g{
-  text-decoration: line-through;
-  color: #BDBDBD;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #000;
 }
 .cost-link{
   margin-top: 25px;
@@ -491,7 +492,7 @@ html{
 
 .input-div{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   width: 650px;
 }
 
@@ -520,6 +521,12 @@ margin-left: 50px;
   height: 60px;
   margin-top: 30px;
   text-align: justify;
+  align-items: center;
+}
+.information-block{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
   align-items: center;
 }
 .footer{
@@ -590,6 +597,7 @@ margin-left: 50px;
 .obzor1-row{
   width: 33.3%;
   transition: 0.2s;
+
 }
 .obzor1-row:hover{
   transform: scale(1.05);

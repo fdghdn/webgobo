@@ -496,8 +496,17 @@ font-size: 15px;
 color: red;
 }
 .p-c-g{
-text-decoration: line-through;
-color: #BDBDBD;
+  margin-top: 10px;
+  font-weight: bold;
+  color: #000;
+}
+.text1{
+  text-align: center;
+}
+.information-block{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .cost-link{
 margin-top: 25px;

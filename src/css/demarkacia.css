@@ -528,10 +528,16 @@ margin-top: 20px;
 .p-c-r{
   color: red;
 }
-.p-c-g{
-  text-decoration: line-through;
-  color: #BDBDBD;
-}
+  .p-c-g{
+    margin-top: 10px;
+    font-weight: bold;
+    color: #000;
+  }
+  .information-block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 .cost-link{
   margin-top: 25px;
   color: black ;

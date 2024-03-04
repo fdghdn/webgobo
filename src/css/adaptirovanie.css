@@ -5,7 +5,7 @@
         flex-direction: column;
     }
     .katalog-photo{
-        height: 1550px;
+        height: 1600px;
     }
     .p-icon{
         margin-left: 20px;
@@ -81,15 +81,17 @@
         flex-direction: column;
         align-items: center;
     }
-    .input-div {
-        width: 330px;
-    }
     .ytvideo{
-        width: 290px;
+        width: 300px;
     height: 190px;
     }
+    .input-div {
+        width: 460px;
+        flex-direction: column;
+        align-items: center;
+    }
     .razdelenie{
-        height: 0px;
+        height: 190px;
     }
     
 .katalog-container{
@@ -104,10 +106,10 @@
 }
 
 .order{
-    height: 1000px;
+    height: 650px;
 }
 .predlozenie{
-    font-size: 38px;
+    font-size: 30px;
     font-weight: bold;
     margin-left: 40px;
 }
@@ -158,11 +160,28 @@
 .a{
     margin-left: 10px;
 }
-
+.row-1{
+    flex-direction: column;
+    align-items: center;
+}
+.obzor1-row{
+    width: 300px;
+    height: 400px;
+    margin: 10px;
+}
 }
 
 
 @media (min-width: 480px){
+    .obzor1-row{
+        width: 33.3%;
+        margin: 0;
+        height: 250px;
+    }
+    .row-1{
+        flex-direction: row;
+        align-items: center;
+    }
     .a{
         margin-left: 20px;
     }
@@ -189,7 +208,7 @@
         height: 80px;
     }
     .katalog-photo{
-        height: 1550px;
+        height: 1600px;
     }
     .order-h1 {
         font-size: 20px;
@@ -260,14 +279,15 @@
         align-items: center;
     }
     .input-div {
-        width: 415px;
+        width: 460px;
+        flex-direction: column;
     }
     .ytvideo{
         width: 460px;
     height: 300px;
     }
     .razdelenie{
-        height: 0px;
+        height: 380px;
     }
     
 .katalog-container{
@@ -282,7 +302,7 @@
 }
 
 .order{
-    height: 1000px;
+    height: 650px;
 }
 .predlozenie{
     font-size: 38px;
@@ -321,16 +341,21 @@
 }
 .text1{
     width: 70%;
-}
-}
-.pic-t{
+}.pic-t{
     margin-top: 40px;
 }
 .cost-link{
     margin-bottom: 20px;
 }
+}
+
 
 @media (min-width: 768px){
+    .obzor1-row{
+        width: 33.3%;
+        margin: 0;
+        height: 450px;
+    }
     .katalog-photo{
         height: 650px;
     }
@@ -402,7 +427,8 @@
         margin-top: 85px;
     }
     .input-div {
-        width: 415px;
+        width: auto;
+        flex-direction: column;
     }
     .ytvideo{
         width: 700px;
@@ -429,13 +455,16 @@
 .predlozenie{
     font-size: 38px;
     font-weight: bold;
+    text-align: center;
 }
+
 .order-menu{
     flex-direction: column;
     align-items: center;
 }
 .information{
     justify-content: space-between;
+    width: 500px;
 }
 .first-footer{
     display: flex;
@@ -461,6 +490,14 @@
 
 
 @media (min-width: 992px){
+    .information{
+        width: 400px;
+    }
+    .obzor1-row{
+        width: 33.3%;
+        margin: 0;
+        height: 560px;
+    }
     .katalog-photo{
         height: 650px;
     }
@@ -557,7 +594,8 @@
         margin-top: 85px;
     }
     .input-div {
-        width: 415px;
+        width: 950px;
+        flex-direction: row;
     }
     .ytvideo{
         width: 500px;
@@ -597,6 +635,11 @@
 
 
 @media (min-width: 1200px){
+    .obzor1-row{
+        width: 33.3%;
+        margin: 0;
+        height: 700px;
+    }
     .order{
         height: 700px;
     }
