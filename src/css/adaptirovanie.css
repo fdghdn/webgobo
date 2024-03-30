@@ -208,6 +208,7 @@
         height: 80px;
     }
     .katalog-photo{
+        align-items: start;
         height: 1600px;
     }
     .order-h1 {
@@ -357,6 +358,7 @@
         height: 450px;
     }
     .katalog-photo{
+        align-items: center;
         height: 650px;
     }
     .pic-t{

@@ -325,6 +325,7 @@
     }
     .katalog-photo{
         height: 1550px;
+        align-items: start;
     }
     .order-h1 {
         font-size: 30px;
@@ -514,6 +515,7 @@
     }
     .katalog-photo{
         height: 650px;
+        align-items: center;
     }
     .pic-t{
         margin-top: 0px;

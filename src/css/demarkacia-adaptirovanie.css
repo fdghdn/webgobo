@@ -410,8 +410,14 @@
     width: 450px;
 }
 }
+.katalog-photo{
+    align-items: start;
+}
 
 @media (min-width: 768px){
+    .katalog-photo{
+        align-items: center;
+    }
     .yt-ps{
         margin-top: 15px;
         font-size: 25px;
